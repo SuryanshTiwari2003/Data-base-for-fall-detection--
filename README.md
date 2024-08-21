@@ -2,3 +2,6 @@
 The database is for the module, for developing and testing a application of graphene based wearable electronics 
 
 A  basic testing file is also provided for the validation of the data 
+
+
+Now a model is to be created for the use in the application 
